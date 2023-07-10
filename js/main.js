@@ -461,7 +461,7 @@
         clSmoothScroll();
         clPlaceholder();
         clAlertBoxes();
-        clContactForm();
+        // clContactForm();
         clAOS();
         clAjaxChimp();
         clBackToTop();
