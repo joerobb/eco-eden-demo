@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'office@ecoeden.co.uk;
+$siteOwnersEmail = 'office@ecoeden.co.uk';
 
 
 if($_POST) {
